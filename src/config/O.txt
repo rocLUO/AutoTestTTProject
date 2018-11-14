@@ -1,0 +1,12 @@
+
+#home page
+openUrl = http://www.baidu.com
+
+#element info
+input_KeyBox_id = kw
+input_KeyBox_xpath = //*[@id="kw"]
+input_keyWord = selenium
+click_search_id = su
+click_search_xpath = //*[@id="su"]
+
+click_
